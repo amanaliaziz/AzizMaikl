@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 640">
+<defs>
+<pattern id="k" width="14" height="14" patternUnits="userSpaceOnUse"><rect width="14" height="14" fill="#f0a818"/><path d="M0 7 L7 0 L14 7 M0 14 L7 7 L14 14" stroke="#c98607" stroke-width="2" fill="none"/></pattern>
+<pattern id="s" width="12" height="12" patternUnits="userSpaceOnUse"><rect width="12" height="12" fill="#f5b52a"/><path d="M0 6 Q3 0 6 6 T12 6" stroke="#c98607" stroke-width="2" fill="none"/></pattern>
+</defs>
+<path d="M20 640 Q40 520 170 490 L430 490 Q560 520 580 640Z" fill="#8a8a8a"/>
+<rect x="255" y="420" width="90" height="90" fill="#d9a57f"/>
+<ellipse cx="300" cy="320" rx="108" ry="130" fill="#e6b48f"/>
+<path d="M192 300 Q190 220 300 205 Q410 220 408 300 Q395 250 300 245 Q205 250 192 300Z" fill="#3a2a20"/>
+<path d="M175 330 Q170 150 300 120 Q430 150 425 330 L410 250 Q300 200 190 250Z" fill="url(#k)"/>
+<rect x="170" y="215" width="260" height="36" rx="14" fill="#e59d10"/>
+<circle cx="300" cy="105" r="48" fill="#cbb89a"/><circle cx="285" cy="95" r="30" fill="#ddcdb0"/>
+<path d="M232 292 Q255 280 278 290" stroke="#2f2018" stroke-width="7" fill="none" stroke-linecap="round"/>
+<path d="M322 290 Q345 280 368 292" stroke="#2f2018" stroke-width="7" fill="none" stroke-linecap="round"/>
+<ellipse cx="255" cy="318" rx="20" ry="11" fill="#fff"/><circle cx="255" cy="318" r="8" fill="#4a7ea8"/><circle cx="255" cy="318" r="3.5" fill="#111"/>
+<ellipse cx="345" cy="318" rx="20" ry="11" fill="#fff"/><circle cx="345" cy="318" r="8" fill="#4a7ea8"/><circle cx="345" cy="318" r="3.5" fill="#111"/>
+<path d="M300 320 L292 372 Q300 380 312 372" stroke="#c48f6b" stroke-width="5" fill="none"/>
+<path d="M205 400 Q300 360 395 400 L440 600 Q300 640 160 600Z" fill="url(#s)"/>
+<rect x="150" y="410" width="110" height="170" rx="50" fill="#e6b48f" transform="rotate(-18 205 495)"/>
+<rect x="340" y="410" width="110" height="170" rx="50" fill="#e6b48f" transform="rotate(18 395 495)"/>
+<path d="M175 430 L210 470 M225 420 L245 470 M375 420 L355 470 M425 430 L390 470" stroke="#c48f6b" stroke-width="5" stroke-linecap="round"/>
+</svg>
